@@ -8,3 +8,4 @@
 
 下载perl strawberry 运行activestate
 
+hyper -v 和 VMware 不能同时开
